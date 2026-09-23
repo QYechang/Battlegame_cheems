@@ -9,7 +9,7 @@ A turn-based desktop battle game built with Python and Pygame. Choose two cat he
   &nbsp;&nbsp;⚔️&nbsp;&nbsp;
   <img src="image/drog_base.PNG" alt="Drog" width="110">
   <img src="image/cheems_base.PNG" alt="Cheems" width="110">
-  <img src="image/witchdog_base.PNG" alt="Witchdog" width="110">
+  <img src="image/witchdog_base.PNG" alt="Witchdog" width="130">
 </p>
 ## Features
 
